@@ -1,4 +1,4 @@
- #My understanding of SQA
+#My understanding of SQA
  
  It's very important of SQA to software products. When we develop software product, as complex environment and different 
  developer's experience, we will meet a numerous of external and internal questions. To assure the software product 
@@ -6,19 +6,19 @@
  the fields of SQA.
  
     By learning the first three chapters, I learn about the ISO-9126 quality framework,quality characteristics is as follows:
-    . Functionality: what is needed? 
-    . Reliability: function correctly. 
-    . Usability: effort to use. 
-    . Efficiency: resource needed. 
-    . Maintainability: correct/improve/adapt. 
-    . Portability: one environment to another.
+    - Functionality: what is needed? 
+    - Reliability: function correctly. 
+    - Usability: effort to use. 
+    - Efficiency: resource needed. 
+    - Maintainability: correct/improve/adapt. 
+    - Portability: one environment to another.
     
     I also know the defect/bug definition,which is:
-    . failure: external behavior deviation from expected behavior
-    . fault: internal characteristics cause for failures
-    . error: incorrect/missing human action error source: conceptual mistakes etc.
-    . defect: error, fault, failure collectively
-    . bug/debug: problematic terms, avoid
+    - failure: external behavior deviation from expected behavior
+    - fault: internal characteristics cause for failures
+    - error: incorrect/missing human action error source: conceptual mistakes etc.
+    - defect: error, fault, failure collectively
+    - bug/debug: problematic terms, avoid
     
     As developer, we should test by white-box,which is internal implementation. As  tester, they will test by black-box, 
     which is external specification.
