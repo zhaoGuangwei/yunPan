@@ -7,24 +7,24 @@
  
  By learning the first three chapters, I learn about the ISO-9126 quality framework,quality characteristics is as follows:
 - Functionality: what is needed? 
-    - Reliability: function correctly. 
-    - Usability: effort to use. 
-    - Efficiency: resource needed. 
-    - Maintainability: correct/improve/adapt. 
-    - Portability: one environment to another.
+- Reliability: function correctly. 
+- Usability: effort to use. 
+- Efficiency: resource needed. 
+- Maintainability: correct/improve/adapt. 
+- Portability: one environment to another.
     
-    I also know the defect/bug definition,which is:
-    - failure: external behavior deviation from expected behavior
-    - fault: internal characteristics cause for failures
-    - error: incorrect/missing human action error source: conceptual mistakes etc.
-    - defect: error, fault, failure collectively
-    - bug/debug: problematic terms, avoid
+I also know the defect/bug definition,which is:
+- failure: external behavior deviation from expected behavior
+- fault: internal characteristics cause for failures
+- error: incorrect/missing human action error source: conceptual mistakes etc.
+- defect: error, fault, failure collectively
+- bug/debug: problematic terms, avoid
     
-    As developer, we should test by white-box,which is internal implementation. As  tester, they will test by black-box, 
+As developer, we should test by white-box,which is internal implementation. As  tester, they will test by black-box, 
     which is external specification.
     
-    To develop a perfect artifact(of course,I know no silver bullet,but the word "perfect" can express my attitude),
-    I will study the course very hard!
+To develop a perfect artifact(of course,I know no silver bullet,but the word "perfect" can express my attitude),
+I will study the course very hard!
 
 #Rate For Students
 
