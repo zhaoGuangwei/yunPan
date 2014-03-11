@@ -5,8 +5,8 @@
  operate rightly, we must explore the potential hazard and test it's stability,efficiency and so on. Of course, this is 
  the fields of SQA.
  
-    By learning the first three chapters, I learn about the ISO-9126 quality framework,quality characteristics is as follows:
-    - Functionality: what is needed? 
+ By learning the first three chapters, I learn about the ISO-9126 quality framework,quality characteristics is as follows:
+- Functionality: what is needed? 
     - Reliability: function correctly. 
     - Usability: effort to use. 
     - Efficiency: resource needed. 
