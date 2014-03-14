@@ -1,7 +1,7 @@
 #Summary
 
 ##Defect Measurement and Analysis
-	###Defect measurement:
+###Defect measurement:
 		parallel to defect handling
 		where injected/found?
 		type/severity/impact?
@@ -9,7 +9,7 @@
 		consistent interpretation
 		timely defect reporting
 
-	###Defect analyses/quality models
+###Defect analyses/quality models
 		as followup to defect handling.
 		data and historical baselines
 		goal: assessment/prediction/improvement
@@ -45,7 +45,7 @@
 	SQE as expanding QA to include QIP ideas.
 
 ##Pre-QA planning:
-	###Quality goal
+###Quality goal
 	Overall QA strategy:
 	QA activities to perform?
 	measurement/feedback planning
@@ -77,14 +77,14 @@
 	preliminary choices of models/analyses
 	feedback & followup mechanisms, etc.
 ##Analysis and Feedback
-	###Measurement:
+###Measurement:
 		defect measurement as part of defect handling process
 		other data and historical baselines
-	###Analyses: quality/other models
+###Analyses: quality/other models
 		input: above data
 		output/goal: feedback and followup
 		focus on defect/risk/reliability analyses
-	###Feedback and followup:
+###Feedback and followup:
 		frequent feedback: assessments/predictions
 		possible improvement areas
 		project management and improvement
@@ -95,11 +95,11 @@ How: techniques/activities/process/etc.
 View: functional/external/black-box
 
 ##When to Stop Testing
-	###Resource-based criteria:
+###Resource-based criteria:
 		Stop when you run out of time.
 		Stop when you run out of money.
 		Irresponsible ) quality/other problems.
-	###Quality-based criteria:
+###Quality-based criteria:
 		Stop when quality goals reached.
 		Direct quality measure: reliability
 			resemble actual customer usages
@@ -108,34 +108,34 @@ View: functional/external/black-box
 	Above in decreasing desirability.
 
 ##Usage-Based Testing and OP
-	###Usage-based statistical testing:
+###Usage-based statistical testing:
 		actual usage and scenarios/information
 		captured in operational profiles (OPs)
 		simulated in testing environment
 		(too numerous => random sampling)
-	###Applicability
+###Applicability
 		final stages of testing.
 		particularly system/acceptance testing.
 		use with s/w reliability engineering.
 	Termination criteria: reliability goals
 
 ##Coverage-Based Testing
-	###Coverage-based testing:
+###Coverage-based testing:
 		systematic testing based on formal (BBT/WBT) models and techniques
 		coverage measures defined for models
 		testing managed by coverage goals
-	###Applicability
+###Applicability
 		all stages of testing.
 		particularly unit and component testing.
 		later phases at high abstraction levels.
-	###Termination criteria: coverage goals
+###Termination criteria: coverage goals
 
 ##Steps in Systematic Testing
-	###Instantiation of Fig 6.1 (p.69)
+###Instantiation of Fig 6.1 (p.69)
 		with a formalized strategies/goals,
 		based on formal models and techniques,
 		managed by termination criteria.
-	###Steps in model construction and usage:
+###Steps in model construction and usage:
 		Define the model, usually represented as graphs and relations.
 		"Check" individual elements:
 		"Test": derive (sensitize) test cases and then execute them.
