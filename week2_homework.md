@@ -90,9 +90,9 @@
 		project management and improvement
 		
 ##Testing: Key questions:
-Why: quality demonstration vs. defect detection and removal
-How: techniques/activities/process/etc.
-View: functional/external/black-box
+	Why: quality demonstration vs. defect detection and removal
+	How: techniques/activities/process/etc.
+	View: functional/external/black-box
 
 ##When to Stop Testing
 ###Resource-based criteria:
