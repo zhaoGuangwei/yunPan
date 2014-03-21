@@ -14,17 +14,20 @@
  Domain (sub-domain) boundaries:
  
 	Distinguishes/defines different sub-domains.
-	
 	Each defined by it boundary condition,
-	
 	e.g., f (x1; x2; ...; xn) = K
 	Adjacent domains:
 	those share common boundary(ies)
  Closed boundary: inclusive (<=, >=)
+ 
  Open boundary: exclusive (<, >)
+ 
  Closed domain: all boundaries closed
+ 
  Open domain: all boundaries open
+ 
  Interior point: in domain and not on boundary.
+ 
  Exterior point: not in domain and not on boundary.
 
 
@@ -56,6 +59,7 @@ Plotting for 1D/2D, algebraic for 3D+.
 
 ##terminology:
  Extreme point combinations (EPC):
+ 
 	Combine above to derive test points.
 	Combine variables ((cid:2), cross-product).
 	# testcases: 4^n + 1.
