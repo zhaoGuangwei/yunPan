@@ -1,15 +1,15 @@
-comparisons between testing and other QA alternatives
+comparisons between testing and other QA alternatives:
 
-QA alternative		    Applicability	    Effectiveness	    Cost
+QA alternative----------Applicability---Effectiveness---Cost
 
-testing			          code		          occa. failures	  medium
+testing-----------------code------------occa. failures--medium
 
-defect prevention	    known causes	    syst. problems	  low
+defect prevention-------known causes----syst. problems--low
 
-inspection		        s/w artifacts	    scat. faults	    low - medium
+inspection--------------s/w artifacts---scat. faults----low - medium
 
-formal verification	  formal spec.	    fault absence	    high
+formal verification-----formal spec.----fault absence---high
 
-fault tolerance		    duplication	      rare failures	    high
+fault tolerance---------duplication-----rare failures---high
 
-failure containment	  known hazards	    rare accidents	  highest
+failure containment-----known hazards---rare accidents-	highest
