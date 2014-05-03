@@ -7,7 +7,9 @@ Student ID: 13126175
 #Summary
 1.1 product introduce
 
-　　Baidu yunpan is an excellent tool for cloud storage. Especially in mobile client, it can upload the photo and video files in synchronization, also telephone book. It can bake up the SMS and call logs.
+　　Baidu yunpan is an excellent tool for cloud storage. Especially in mobile client, it can upload the photo and video
+　　
+　　files in synchronization, also telephone book. It can bake up the SMS and call logs.
 　　
 1.2 scope
 
@@ -23,21 +25,39 @@ Student ID: 13126175
 　　
 1.3 limitation
 
-　　The test plan is limited to content and time submitted by product developers. According to the actual situation of the module submitted by developers, this plan will make the appropriate modifications.
+　　The test plan is limited to content and time submitted by product developers. According to the actual situation of
+　　
+　　the module submitted by developers, this plan will make the appropriate modifications.
+　　
 1.4 reference
+
 　　Baidu yun’s manual
+　　
 #agreement
 2.1 test target
+
 　　Through testing, to achieve the following objectives:
-　　Test whether the product has achieved the designed requirements, including whether to implement each function point, the business process is correct.
+　　
+　　Test whether the product has achieved the designed requirements, including whether to implement each function point,
+　　
+　　the business process is correct.
+　　
 　　Stable operation and running required by the product.
+　　
 　　Bug control number and the defect rate is acceptable.
+　　
 2.2 resource and tool
+
 2.2.1 resource
+
 　　The android client of baidu yun.
+　　
 2.2.2 tool
+
 　　Bug management tools used in the test is improved bug management tools.
+　　
 　　Automated testing tools to be determined.
+　　
 2.4 No. Rules
 　　The number of rules associated with the test plan are as follows:
 　　The number of test cases,  the function name + interface name + Code
